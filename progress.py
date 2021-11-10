@@ -180,3 +180,13 @@
 # while loop
 # challenges with robot
 # finishing last challenge
+# needed to add a final function to check if obstacle was to the right
+
+# 11/09/2021
+# Finished maze for robot
+# However, need to come back to debug! **
+# trying to finish hangman challenge
+# discovered issue with index, index of both lists needed to be assigned
+
+# 11/10/2021
+# finishing problem
