@@ -190,3 +190,6 @@
 
 # 11/10/2021
 # finishing problem
+# realized there's a "not in" 
+# stuck on accessing another list
+# looking into issue
