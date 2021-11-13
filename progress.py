@@ -182,7 +182,7 @@
 # finishing last challenge
 # needed to add a final function to check if obstacle was to the right
 
-# 11/09/2021
+# 11/09/20211
 # Finished maze for robot
 # However, need to come back to debug! **
 # trying to finish hangman challenge
@@ -192,3 +192,23 @@
 # finishing problem
 # realized there's a "not in" 
 # stuck on accessing another list, looking into issue
+
+# 11/11/2021
+# imported modules
+# from replit import clear
+# clear()
+# functions with input
+# cipher
+# positional arguements, keyword arguements
+
+# 11/12/2021
+# prime number function
+# starting cipher
+
+# 11/13/2021
+# finished encrypt
+# finished decode
+# need to figure out spaces
+# figured out alphabet ord() chr()
+
+        
