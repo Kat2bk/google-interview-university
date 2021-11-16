@@ -211,4 +211,6 @@
 # need to figure out spaces
 # figured out alphabet ord() chr()
 
+# 11/15/2021
+# simplified issue
         
