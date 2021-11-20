@@ -213,4 +213,17 @@
 
 # 11/15/2021
 # simplified issue
+
+# 11/17/2021
+# fiished cipher
+
+# 11/18/2021
+# dictionaries/lists challenges
+
+# 11/19/2021
+# finished auction challenge
+# finished leap year challenge
+# starting calculator challenge
+# learned about docstrings
+
         
