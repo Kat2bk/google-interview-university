@@ -27,3 +27,13 @@ def recursiveMethod(n):
         print(n)
 
 print(recursiveMethod(5))
+
+#  infinite recursion can lead to system crash
+# infinite iterative function consumes CPU cycles
+# recursion - head of method calls, expensive both in processor time/memory space
+# recursion uses O(N) memory
+
+# iteration sometimes is faster than recursion both through space and time
+# if you know your input is going to be small, recursion is certainly a good choice
+# can reduce time complexity with memoization/caching
+
